@@ -1,7 +1,20 @@
-# Strategic Narrative LLC
+# Hydejack Starter Kit
 
-Strategic Narrative LLC is a consulting and research firm dedicated to helping organizations harness the power of clear, compelling, and evidence-based storytelling. The company specializes in translating complex energy, technology, and policy context into strategic guidance that drives alignment, influences decision-making, and supports high-impact initiatives. With a foundation in analytical rigor and real-world experience across national laboratories, federal programs, and emerging technology sectors, Strategic Narrative LLC brings both depth and clarity to the challenges facing innovators, entrepreneurs, research institutions, and mission-driven organizations.
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-The firm’s services span strategic communications, proposal development, thought leadership writing, policy and market analysis, and end-to-end support for research-driven projects. Strategic Narrative LLC excels at connecting technical insights to broader market and societal value crafting narratives that resonate with funders, partners, and stakeholders across the climate, energy, and technology landscapes.
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-Whether supporting grant proposals, shaping organizational strategy, creating investor-ready messaging, or transforming research outputs into actionable communications, Strategic Narrative LLC delivers work that is precise, persuasive, and grounded. The firm’s mission is simple: help clients articulate their best ideas and position them for real-world impact.
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+
+[^1]: Requires Bundler. Install with `gem install bundler`.
+
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
